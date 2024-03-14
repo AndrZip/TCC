@@ -1,0 +1,17 @@
+.btn-primary {
+    margin-right: 1rem;
+    --bs-btn-font-size: 1rem;
+    font-family: "Open Sans", sans-serif !important;
+
+    color: black;
+    background-color: #C9DF8A !important;
+}
+
+.btn-secondary {
+    margin-right: 1rem;
+    --bs-btn-font-size: 1rem;
+    font-family: "Open Sans", sans-serif !important;
+
+    color: black;
+    background-color: #F0F7DA !important;
+}

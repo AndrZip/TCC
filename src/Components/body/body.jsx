@@ -26,3 +26,5 @@ const Body = () => {
 }
 
 export default Body
+
+/*utlizar classes de margin e padding do bootstrap*/
