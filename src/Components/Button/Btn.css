@@ -3,8 +3,8 @@
     --bs-btn-font-size: 1rem;
     font-family: "Open Sans", sans-serif !important;
 
-    color: black;
-    background-color: #C9DF8A !important;
+    --bs-btn-color: black !important;
+    ---bs-btn-bg: #C9DF8A !important;
 }
 
 .btn-secondary {
@@ -12,6 +12,24 @@
     --bs-btn-font-size: 1rem;
     font-family: "Open Sans", sans-serif !important;
 
-    color: black;
-    background-color: #F0F7DA !important;
+    --bs-btn-color: black !important;
+    --bs-btn-bg: #F0F7DA !important;
+}
+
+.btn-secondary:hover {
+    --bs-btn-hover-bg: var(--bs-btn-bg) !important;
+    --bs-btn-hover-color: var(--bs-btn-color) !important;
+}
+
+.btn-lg {
+    padding: 0.5rem 1rem;
+    width: 16rem;
+    height: 3rem;
+}
+
+.btn-sm {
+    padding: 0.5rem 1rem;
+    font-size: 1.2rem !important;
+    width: 7rem;
+    height: 3rem;
 }
