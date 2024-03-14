@@ -1,0 +1,30 @@
+.col {
+    padding-top: 3%;
+    margin-left: 3%;
+}
+
+.col h1 {
+    font-size: 64px;
+    letter-spacing: -.3rem;
+    font-weight: bold;
+}
+
+.col p {
+    font-size: 24px;
+}
+
+#body-img-1 {
+    width: 90%;
+    height: 60%;
+}
+
+#body-img-2 {
+    width: 90%;
+    height: 20%;
+}
+
+#btn-adotar, #btn-doar {
+    width: 47%;
+    height: 10%;
+    border-color: black;
+}

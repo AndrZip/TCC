@@ -20,12 +20,10 @@ const navbar = () => {
                 </div>
 
                 <div className="d-flex justify-content-end">
-                    <button type="button" className="btn btn-primary" id="btn-login"
-                        style={{width: "9.37rem", height: "4.37", "--bs-btn-font-size": "1rem", marginRight: "1rem"}}>
+                    <button type="button" className="btn btn-secundary">
                         Login
                     </button>
-                    <button type="button" className="btn btn-primary" id="btn-cadastro"
-                        style={{width: "9.37rem", height: "4.37", "--bs-btn-font-size": "1rem", marginRight: "1rem"}}>
+                    <button type="button" className="btn btn-primary">
                         Cadastro
                     </button>
                 </div>

@@ -1,0 +1,17 @@
+.btn-primary {
+    width: 9.37rem;
+    height: 4.37;
+    margin-right: 1rem;
+    --bs-btn-font-size: 1rem;
+    color: black !important;
+    background-color: #C9DF8A !important;
+}
+
+.btn-secundary {
+    width: 9.37rem;
+    height: 4.37;
+    margin-right: 1rem;
+    --bs-btn-font-size: 1rem;
+    color: black !important;
+    background-color: #F0F7DA !important;
+}
