@@ -5,7 +5,7 @@ import Btn from '../Button/Btn'
 
 const navbar = () => {
     return (
-        <nav className="navbar navbar-expand-lg bg-body-tertiary" id='navbar'>
+        <nav className="navbar navbar-expand-lg bg-Main-tertiary" id='navbar'>
             <div className="container-fluid">
                 <a className="navbar-brand" href="/#">[logo]</a>
                 <button className="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="/#navbarNavAltMarkup"

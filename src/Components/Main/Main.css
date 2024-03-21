@@ -1,0 +1,21 @@
+.col {
+    margin-top: 5vw;
+    margin: 3vw !important;
+    margin: 3vw !important;
+}
+
+.col h1 {
+    font-size: 4vw; /* Usando vw para manter proporção em relação à largura da tela */
+    letter-spacing: -0.046875em; /* Usando em para manter proporção */
+    line-height: 4.5vw; /* Usando vw para manter proporção */
+    font-weight: bold;
+}
+
+.col p {
+    font-size: 2vw; /* Usando vw para manter proporção em relação à largura da tela */
+    padding-bottom: 3.5rem;
+}
+
+.col img {
+    border-radius: 1rem;
+}

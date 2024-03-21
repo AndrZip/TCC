@@ -17,14 +17,17 @@
 }
 
 .btn-secondary:hover {
-    --bs-btn-hover-bg: var(--bs-btn-bg) !important;
-    --bs-btn-hover-color: var(--bs-btn-color) !important;
+    --bs-btn-hover-bg: #F0F7DA;
+    --bs-btn-hover-color: black;
+    --bs-btn-active-bg: #F0F7DA;
+    --bs-btn-active-color: black;
 }
 
 .btn-lg {
     padding: 0.5rem 1rem;
-    width: 16rem;
-    height: 3rem;
+    font-size: 1.6rem !important;
+    width: 20rem;
+    height: 4rem;
 }
 
 .btn-sm {

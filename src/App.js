@@ -1,12 +1,14 @@
 import './App.css';
 import Navbar from '../src/Components/navbar/navbar';
-import Body from '../src/Components/body/body';
+import Main from '../src/Components/Main/Main';
+import About from '../src/Components/About/About';
 
 function App() {
   return (
     <>
       <Navbar />
-      <Body />
+      <Main />
+      <About />
     </>
 
   );
