@@ -3,8 +3,8 @@
     --bs-btn-font-size: 1rem;
     font-family: "Open Sans", sans-serif !important;
 
-    --bs-btn-color: black !important;
-    ---bs-btn-bg: #C9DF8A !important;
+    color: black !important;
+    background-color: #C9DF8A !important;
 }
 
 .btn-secondary {
@@ -12,8 +12,8 @@
     --bs-btn-font-size: 1rem;
     font-family: "Open Sans", sans-serif !important;
 
-    --bs-btn-color: black !important;
-    --bs-btn-bg: #F0F7DA !important;
+    color: black !important;
+    background-color: #F0F7DA !important;
 }
 
 .btn-secondary:hover {

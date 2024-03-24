@@ -1,21 +1,26 @@
-.col {
-    margin-top: 5vw;
-    margin: 3vw !important;
-    margin: 3vw !important;
+.row {
+    margin-top: 2rem !important;
+    margin-left: 3rem !important;
+    margin-right: 0 !important;
+    margin-bottom: 3rem !important;
 }
 
-.col h1 {
-    font-size: 4vw; /* Usando vw para manter proporção em relação à largura da tela */
-    letter-spacing: -0.046875em; /* Usando em para manter proporção */
-    line-height: 4.5vw; /* Usando vw para manter proporção */
+.row h1 {
+    font-size: 4vw;
+    letter-spacing: -0.046875em;
+    line-height: 4.5vw;
     font-weight: bold;
 }
 
-.col p {
-    font-size: 2vw; /* Usando vw para manter proporção em relação à largura da tela */
-    padding-bottom: 3.5rem;
+.row p {
+    font-size: 2vw;
+    margin-bottom: 2rem !important;
 }
 
-.col img {
-    border-radius: 1rem;
+.coluna1 img {
+    margin-top: 4.5rem;
+}
+
+.coluna2 {
+    margin-left: 10rem;
 }
